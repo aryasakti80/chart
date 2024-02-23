@@ -1,1 +1,1 @@
-# chart
+# chart for your portofolio
